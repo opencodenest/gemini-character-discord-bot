@@ -1,0 +1,1 @@
+# gemini-character-discord-bot
