@@ -1,0 +1,30 @@
+{
+  "name": "gemini-character-discord-bot",
+  "version": "1.0.0",
+  "description": "Gemini custom character dicord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opencodenest/gemini-character-discord-bot.git"
+  },
+  "keywords": [
+    "gemnini",
+    "ai",
+    "dicord",
+    "bot"
+  ],
+  "author": "MONSTER-HARSH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opencodenest/gemini-character-discord-bot/issues"
+  },
+  "homepage": "https://github.com/opencodenest/gemini-character-discord-bot#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  }
+}
